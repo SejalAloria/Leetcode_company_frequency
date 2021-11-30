@@ -23,11 +23,11 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 -[Linkedin](#linkedin)
 
 # Google
-| # | Title | Acceptance |
----- | --- | --- |
-1007	|		Minimum Domino Rotations For Equal Row	|	50.90%	|
-929	|		Unique Email Addresses	|	68.20%	|
-975	|		Odd Even Jump	|	44.60%	|
+| # | Title | Acceptance | Difficulty | 
+---- | --- | --- | --- |
+1007	|		Minimum Domino Rotations For Equal Row	|	50.90%	| Medium |
+929	|		Unique Email Addresses	|	68.20%	| Easy |
+975	|		Odd Even Jump	|	44.60%	| Hard |
 904	|		Fruit Into Baskets	|	41.90%	|
 947	|		Most Stones Removed with Same Row or Column	|	54.90%	|
 410	|		Split Array Largest Sum	|	43.40%	|
