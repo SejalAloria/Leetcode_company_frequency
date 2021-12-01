@@ -47,7 +47,7 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 158	|		Read N Characters Given Read4 II - Call multiple times	|	29.40%	|
 308	|		Range Sum Query 2D - Mutable	|	33.60%	|
 913	|		Cat and Mouse	|	30.00%	|
-299	|		Bulls and Cows	|	40.90%	|
+299	|		Bulls and Cows	|	40.90%	| Medium | Done |
 837	|		New 21 Game	|	33.20%	|
 253	|		Meeting Rooms II	|	44.10%	|
 642	|		Design Search Autocomplete System	|	41.30%	|
