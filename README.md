@@ -34,12 +34,12 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 843	|		Guess the Word	|	45.30%	| Hard |
 482	|		License Key Formatting	|	42.20%	| Easy | Done |
 1	|		Two Sum	|	44.80%	|
-222	|		Count Complete Tree Nodes	|	39.00%	|
+222	|		Count Complete Tree Nodes	|	39.00%	| Medium |
 844	|		Backspace String Compare	|	46.80%	| Easy | Done |
-399	|		Evaluate Division	|	49.30%	|
-753	|		Cracking the Safe	|	48.90%	|
-489	|		Robot Room Cleaner	|	67.10%	|
-777	|		Swap Adjacent in LR String	|	34.20%	|
+399	|		Evaluate Division	|	49.30%	| Medium |
+753	|		Cracking the Safe	|	48.90%	| Hard |
+489	|		Robot Room Cleaner	|	67.10%	| Hard (P) |
+777	|		Swap Adjacent in LR String	|	34.20%	| Medium | Done |
 809	|		Expressive Words	|	45.70%	|
 939	|		Minimum Area Rectangle	|	51.70%	|
 1057	|		Campus Bikes	|	58.30%	|
