@@ -32,10 +32,10 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 947	|		Most Stones Removed with Same Row or Column	|	54.90%	| Medium |
 410	|		Split Array Largest Sum	|	43.40%	| Hard |
 843	|		Guess the Word	|	45.30%	| Hard |
-482	|		License Key Formatting	|	42.20%	| Easy |
+482	|		License Key Formatting	|	42.20%	| Easy | Done |
 1	|		Two Sum	|	44.80%	|
 222	|		Count Complete Tree Nodes	|	39.00%	|
-844	|		Backspace String Compare	|	46.80%	|
+844	|		Backspace String Compare	|	46.80%	| Easy | Done |
 399	|		Evaluate Division	|	49.30%	|
 753	|		Cracking the Safe	|	48.90%	|
 489	|		Robot Room Cleaner	|	67.10%	|
