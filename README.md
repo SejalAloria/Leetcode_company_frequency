@@ -438,9 +438,9 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 ---- | --- | --- | --- |
 146	|		LRU Cache			|	28.60%
 151	|		Reverse Words in a String			|	18.60%      | Done
-103	|		Binary Tree Zigzag Level Order Traversal			|	44.20%
+103	|		Binary Tree Zigzag Level Order Traversal			|	44.20% | Done
 138	|		Copy List with Random Pointer			|	30.60%
-165	|		Compare Version Numbers			|	25.30%
+165	|		Compare Version Numbers			|	25.30% 
 1	|		Two Sum			|	44.80%
 54	|		Spiral Matrix			|	32.10%
 42	|		Trapping Rain Water			|	45.80%
