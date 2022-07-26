@@ -434,10 +434,10 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 
 
 # Microsoft
-| # | Title  | Acceptance |
----- | --- | --- |
+| # | Title  | Acceptance | Status |
+---- | --- | --- | --- |
 146	|		LRU Cache			|	28.60%
-151	|		Reverse Words in a String			|	18.60%
+151	|		Reverse Words in a String			|	18.60%      | Done
 103	|		Binary Tree Zigzag Level Order Traversal			|	44.20%
 138	|		Copy List with Random Pointer			|	30.60%
 165	|		Compare Version Numbers			|	25.30%
