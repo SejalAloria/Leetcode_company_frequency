@@ -440,12 +440,12 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 151	|		Reverse Words in a String			|	18.60%      | Done
 103	|		Binary Tree Zigzag Level Order Traversal			|	44.20% | Done
 138	|		Copy List with Random Pointer			|	30.60%
-165	|		Compare Version Numbers			|	25.30% 
-1	|		Two Sum			|	44.80%
-54	|		Spiral Matrix			|	32.10%
-42	|		Trapping Rain Water			|	45.80%
-445	|		Add Two Numbers II			|	52.00%
-5	|		Longest Palindromic Substring			|	28.40%
+165	|		Compare Version Numbers			|	25.30%  | Done
+1	|		Two Sum			|	44.80%    | DOne
+54	|		Spiral Matrix			|	32.10%    | Done
+42	|		Trapping Rain Water			|	45.80%  | Done
+445	|		Add Two Numbers II			|	52.00%    | Done
+5	|		Longest Palindromic Substring			|	28.40%  | Done
 348	|		Design Tic-Tac-Toe			|	51.80%
 428	|		Serialize and Deserialize N-ary Tree			|	56.40%
 88	|		Merge Sorted Array			|	37.50%
