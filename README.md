@@ -452,8 +452,8 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 200	|		Number of Islands			|	43.80%    | Done
 794	|		Valid Tic-Tac-Toe State			|	31.60%
 253	|		Meeting Rooms II			|	44.10%
-53	|		Maximum Subarray			|	45.10%
-443	|		String Compression			|	39.00%
+53	|		Maximum Subarray			|	45.10%  | Done
+443	|		String Compression			|	39.00%  | Done
 22	|		Generate Parentheses			|	58.30%
 402	|		Remove K Digits			|	27.20%
 557	|		Reverse Words in a String III			|	66.40%
