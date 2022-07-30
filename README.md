@@ -454,8 +454,8 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 253	|		Meeting Rooms II			|	44.10%
 53	|		Maximum Subarray			|	45.10%  | Done
 443	|		String Compression			|	39.00%  | Done
-22	|		Generate Parentheses			|	58.30%
-402	|		Remove K Digits			|	27.20%
+22	|		Generate Parentheses			|	58.30%    | Done
+402	|		Remove K Digits			|	27.20%      | Done
 557	|		Reverse Words in a String III			|	66.40%
 186	|		Reverse Words in a String II			|	40.30%
 297	|		Serialize and Deserialize Binary Tree			|	43.90%
