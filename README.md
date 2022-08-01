@@ -457,13 +457,13 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 22	|		Generate Parentheses			|	58.30%    | Done
 402	|		Remove K Digits			|	27.20%      | Done
 557	|		Reverse Words in a String III			|	66.40%
-186	|		Reverse Words in a String II			|	40.30%
+186	|		Reverse Words in a String II			|	40.30%  | Done
 297	|		Serialize and Deserialize Binary Tree			|	43.90%
-236	|		Lowest Common Ancestor of a Binary Tree			|	41.10%
-240	|		Search a 2D Matrix II			|	42.00%
-206	|		Reverse Linked List			|	58.10%
-33	|		Search in Rotated Sorted Array			|	33.40%
-2	|		Add Two Numbers			|	32.30%
+236	|		Lowest Common Ancestor of a Binary Tree			|	41.10%    | Done
+240	|		Search a 2D Matrix II			|	42.00%    | Done
+206	|		Reverse Linked List			|	58.10%    | Done
+33	|		Search in Rotated Sorted Array			|	33.40%  | Done
+2	|		Add Two Numbers			|	32.30%    | Done
 105	|		Construct Binary Tree from Preorder and Inorder Traversal			|	44.40%
 805	|		Split Array With Same Average			|	25.50%
 285	|		Inorder Successor in BST			|	37.20%
