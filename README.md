@@ -465,7 +465,7 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 33	|		Search in Rotated Sorted Array			|	33.40%  | Done
 2	|		Add Two Numbers			|	32.30%    | Done
 105	|		Construct Binary Tree from Preorder and Inorder Traversal			|	44.40%    | Done
-805	|		Split Array With Same Average			|	25.50%
+805	|		Split Array With Same Average			|	25.50%    | Done
 285	|		Inorder Successor in BST			|	37.20%
 23	|		Merge k Sorted Lists			|	37.10%      | Done
 273	|		Integer to English Words			|	25.40%
