@@ -478,8 +478,8 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 8	|		String to Integer (atoi)			|	14.90%
 25	|		Reverse Nodes in k-Group			|	38.70%
 79	|		Word Search			|	33.00%
-75	|		Sort Colors			|	43.90%
-3	|		Longest Substring Without Repeating Characters			|	29.20%
+75	|		Sort Colors			|	43.90%    | Done
+3	|		Longest Substring Without Repeating Characters			|	29.20%    | Done
 679	|		24 Game			|	44.30%
 232	|		Implement Queue using Stacks			|	45.90%
 36	|		Valid Sudoku			|	45.70%
