@@ -961,13 +961,13 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 21	|		Merge Two Sorted Lists		|	50.10%
 
 # Bloomberg
-| # | Title  | Acceptance |
+| # | Title  | Acceptance | Difficulty | Status |
 ---- | --- | --- |
-430	|		Flatten a Multilevel Doubly Linked List		|	46.20%
-723	|		Candy Crush		|	66.00%
+430	|		Flatten a Multilevel Doubly Linked List		|	46.20% | Medium   | Done
+723	|		Candy Crush		|	66.00%  |     |
 1169	|		Invalid Transactions		|	28.80%
 394	|		Decode String		|	47.20%
-1029	|		Two City Scheduling		|	55.20%
+1029	|		Two City Scheduling		|	55.20%  | Medium  | Done
 146	|		LRU Cache		|	28.60%
 797	|		All Paths From Source to Target		|	72.50%
 390	|		Elimination Game		|	44.00%
