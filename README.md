@@ -962,7 +962,7 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 
 # Bloomberg
 | # | Title  | Acceptance | Difficulty | Status |
----- | --- | --- |
+---- | --- | --- | --- | --- | 
 430	|		Flatten a Multilevel Doubly Linked List		|	46.20% | Medium   | Done |
 723	|		Candy Crush		|	66.00%  |     |
 1169	|		Invalid Transactions		|	28.80%
