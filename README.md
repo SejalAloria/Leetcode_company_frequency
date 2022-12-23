@@ -964,14 +964,14 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 | # | Title  | Acceptance | Difficulty | Status |
 ---- | --- | --- | --- | --- | 
 430	|		Flatten a Multilevel Doubly Linked List		|	46.20% | Medium   | Done |
-723	|		Candy Crush		|	66.00%  |     |
+723	|		Candy Crush		|	66.00%  |   Premium  |  
 1169	|		Invalid Transactions		|	28.80%
 394	|		Decode String		|	47.20%
 1029	|		Two City Scheduling		|	55.20%  | Medium  | Done | 
 146	|		LRU Cache		|	28.60%
-797	|		All Paths From Source to Target		|	72.50%
-390	|		Elimination Game		|	44.00%
-33	|		Search in Rotated Sorted Array		|	33.40%
+797	|		All Paths From Source to Target		|	72.50%  | Medium | Done |
+390	|		Elimination Game		|	44.00%  | Medium | Done |
+33	|		Search in Rotated Sorted Array		|	33.40%  | Medium | Done |
 200	|		Number of Islands		|	43.80%
 611	|		Valid Triangle Number		|	46.80%
 116	|		Populating Next Right Pointers in Each Node		|	40.40%
