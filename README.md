@@ -972,7 +972,7 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 797	|		All Paths From Source to Target		|	72.50%  | Medium | Done |
 390	|		Elimination Game		|	44.00%  | Medium | Done |
 33	|		Search in Rotated Sorted Array		|	33.40%  | Medium | Done |
-200	|		Number of Islands		|	43.80%
+200	|		Number of Islands		|	43.80%  | Medium  | Done  |
 611	|		Valid Triangle Number		|	46.80%
 116	|		Populating Next Right Pointers in Each Node		|	40.40%
 253	|		Meeting Rooms II		|	44.10%
